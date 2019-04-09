@@ -1,18 +1,13 @@
-﻿<!DOCTYPE html>
-<head>
-    <title> ReadMe</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    </head>
+﻿# Practica01-Mi-Blog
 <body>
     <header >
-                <img src="imagenes/ct_rsociales.png " alt="Redes Sociales" />
+<img src="imagenes/ct_rsociales.png " alt="Redes Sociales" />
     </header>
 <section>
         <h2>Imagen 1</h2>
         <article>
         <img src="Capturas/1.PNG " alt="Imagen1" />        
-        <p>En esta Imagen se observa como cremaos la cuenta.</p>
+        <p>En esta Imagen se observa como creamos la cuenta.</p>
         </article>
 
 <!-- # Practica01-Mi-Blog
