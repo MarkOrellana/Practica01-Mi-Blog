@@ -1,5 +1,9 @@
 ﻿# Practica01-Mi-Blog
-<section>
+##Actividades Desarrolladas
+1. Imagen 1:
+
+
+<!-- <section>
         <h2>Imagen 1</h2>
         <article>
         <img src="Capturas/1.PNG " alt="Imagen1" />        
@@ -17,4 +21,4 @@
         <article>
         <img src="Capturas/4.PNG " alt="Imagen4" />        
         <p>Commits realizados en el git hub en el cual pordemos observar cuantos fueron realizados con fecha u hora.</p>
-        </article>
+        </article> -->
