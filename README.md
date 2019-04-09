@@ -10,9 +10,11 @@
         <img src="Capturas/2.PNG " alt="Imagen2" />        
         <p>Commits realizados.</p>
         </article>
-<!-- # Practica01-Mi-Blog
-Realizacion de practica conforme a los requerimentos.
-Entender y organizar de una mejor manera los sitios de web en Internet. 
-Crear sitios web aplicando estándares actuales.
-Desarrollar aplicaciones web interactivas y amigables al usuario.
-El conejo malo. -->
+        <article>
+        <img src="Capturas/3.PNG " alt="Imagen3" />        
+        <p>Interfaz Commit.</p>
+        </article>
+        <article>
+        <img src="Capturas/4.PNG " alt="Imagen4" />        
+        <p>Commits realizados en el git hub en el cual pordemos observar cuantos fueron realizados con fecha u hora.</p>
+        </article>
