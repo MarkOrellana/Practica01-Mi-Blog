@@ -1,8 +1,4 @@
 ﻿# Practica01-Mi-Blog
-<body>
-    <header >
-<img src="imagenes/ct_rsociales.png " alt="Redes Sociales" />
-    </header>
 <section>
         <h2>Imagen 1</h2>
         <article>
