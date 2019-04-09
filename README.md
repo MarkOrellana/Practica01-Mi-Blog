@@ -4,4 +4,4 @@ Entender y organizar de una mejor manera los sitios de web en Internet.
 Crear sitios web aplicando estándares actuales.
 Desarrollar aplicaciones web interactivas y amigables al usuario.
 El conejo malo.
-<img src="imagenes/ct_1.png " alt="Imagen1" />
+<img src="Capturas/1.PNG " alt="Imagen1" />
