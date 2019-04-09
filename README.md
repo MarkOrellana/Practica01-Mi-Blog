@@ -21,3 +21,8 @@
         <img src="Capturas/4.PNG " alt="Imagen4" />        
         <p>Commits realizados en el git hub en el cual pordemos observar cuantos fueron realizados con fecha u hora.</p>
         </article>
+        <h2>Imagen 5</h2>
+        <img src="Capturas/5.PNG " alt="Imagen5" />        
+        <p>Commits realizados en el git hub en el cual pordemos observar cuantos fueron realizados con fecha u hora.</p>
+        </article>
+        
